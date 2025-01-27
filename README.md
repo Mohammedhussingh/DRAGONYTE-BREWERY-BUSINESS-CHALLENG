@@ -84,8 +84,3 @@ This project aims to analyze and predict growth opportunities for Dragonyte Brew
 - `/power_bi`: Power BI report file.
 - `/documentation`: Additional project documentation.
 
----
-
-## Contact
-
-For questions or further clarification, please reach out to [Your Name] at [Your Email].
